@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Diego Fernando, a Software Engineering, I'm curious.
+- 👀 I’m interested in programming languages, and data science.
+- 🌱 I'm always learning new things :)
+- 💞️ I’m looking to collaborate on challenging projects.
+- 📫 Contact me on LinkedIn: https://www.linkedin.com/in/dfbarrios/
